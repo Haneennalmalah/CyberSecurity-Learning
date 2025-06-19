@@ -1,53 +1,46 @@
-# 🛡️ CyberSecurity Learning – Red Teaming Notes
+# 🛡️ CyberSecurity Learning Notes
 
-Welcome to my curated Red Teaming knowledge base! This repository documents everything I'm learning as I dive deep into the world of offensive cybersecurity — from tools, tactics, and procedures to hands-on labs and certifications.
+Welcome to my all-in-one cybersecurity knowledge base! This repository documents my journey across:
 
----
-
-## 📌 What You'll Find Here
-
-- 🔍 **Red Team Notes** – Core concepts, tools, TTPs, and frameworks
-- 🧰 **Tools Cheatsheets** – Purpose-driven tool lists with real-world use cases
-- 🎓 **Certifications Tracker** – Free and paid certifications I'm working on
-- 🧪 **Lab Practice Ideas** – Labs from TryHackMe, HTB, VulnHub, and more
-- 📖 **Learning Resources** – Books, YouTube channels, courses, and GitHub gems
-- 📝 **My Journal** – Personal logs, what I’m learning, wins, and failures
+- ⚔️ Red Teaming (offensive)
+- 🛡️ Blue Teaming (defensive)
+- ☁️ Cloud Security (AWS, Azure, GCP)
+- 🧪 Labs & Certifications
 
 ---
 
-## 📚 Red Teaming in a Nutshell
+## 📂 Repository Structure
 
-> “A loud red teamer is a failed red teamer.”  
-> This repo is all about learning how to stay stealthy, strategic, and sharp.
-
-Key topics covered:
-- MITRE ATT&CK, Kill Chain, PTES, NIST 800-115
-- OPSEC, TTPs, C2 frameworks
-- Social Engineering & OSINT tips
-- Privilege escalation, lateral movement, persistence, and exfiltration
-
----
-
-## 🧠 Why This Repo Exists
-
-As a cybersecurity student and future Red Teamer, I created this repo to:
-- 📓 Document my hands-on learning
-- 🧩 Prepare for certifications like PNPT, CRTO, RTO1, and OSCP
-- 🧠 Build a second brain for offensive security concepts
-- 🔥 Help others follow a clear Red Teaming path
+| Folder | Description |
+|--------|-------------|
+| [`/red-teaming`](./red-teaming/red-teaming-notes.md) | Tools, TTPs, OPSEC, MITRE, C2, post-exploitation |
+| [`/blue-teaming`](./blue-teaming/blue-teaming-notes.md) | Detection, logging, threat hunting, SIEM, EDR |
+| [`/cloud-security`](./cloud-security/cloud-security-notes.md) | Securing cloud platforms, IAM, storage, workloads |
+| [`/labs`](./labs/) | Hands-on practice (TryHackMe, Hack The Box, AD, etc.) |
+| [`/certifications`](./certifications/cert-roadmap.md) | List of free + paid certifications with roadmap |
 
 ---
 
-## 🔗 External Dashboard (Notion)
+## 🔥 Highlights
 
-🔗 [My Notion Red Team Dashboard](https://www.notion.so/)  
-> *(This will be updated once connected — guide below)*
+- 💻 Real-world tools, techniques, and frameworks
+- 📚 Documented learning from courses, books, labs
+- 🧠 Clear categorization for faster revision
+- 🧪 Weekly progress tracking
 
 ---
 
-## 🚀 How to Use This Repo
+## 🌐 Notion Sync
 
-You can clone this repo and use the notes or contribute ideas:
+🔄 This repo is synced with my personal Notion dashboard for deeper filtering, tags, and weekly reviews.  
+> 🌍 [Notion Public Page – Coming Soon](#)
+
+---
+
+## 🚀 How to Use
+
+Clone the repo to use and expand your notes:
 
 ```bash
 git clone https://github.com/Haneennalmalah/CyberSecurity-Learning.git
+cd CyberSecurity-Learning
