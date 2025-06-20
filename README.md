@@ -30,6 +30,22 @@ Welcome to my all-in-one cybersecurity knowledge base! This repository documents
 
 ---
 
+---
+
+## 👩‍💻 Author
+
+**Haneen Almalah**  
+🎓 Cybersecurity Student @ Egypt-Japan University  
+🛡️ Red Teaming | 🕵️‍♀️ Blue Teaming | ☁️ Cloud Security Explorer  
+💬 Passionate about adversary simulation, threat detection, and building hands-on labs.  
+📍 Alexandria, Egypt  
+
+- 🐙 GitHub: [@Haneennalmalah](https://github.com/Haneennalmalah)  
+- 💼 LinkedIn: [linkedin.com/in/haneen-bassioni-a3561420b](https://www.linkedin.com/in/haneen-bassioni-a3561420b)  
+- ✉️ Email: haneennalmalah@gmail.com *(for collabs or hiring)*  
+- 🔗 Notion Public Dashboard: *Coming soon*  
+
+
 ## 🌐 Notion Sync
 
 🔄 This repo is synced with my personal Notion dashboard for deeper filtering, tags, and weekly reviews.  
